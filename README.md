@@ -1,5 +1,5 @@
 # Christian Vasquez Leon - Body of Work
-**Last Updated**: 2023-05-14
+**Last Updated**: 2023-07-20
 **********
 ## Table of Contents
 - [Christian - Profile and Body of Work](#christian-vasquez-leon---body-of-work)
@@ -26,7 +26,7 @@ individual. If you have any questions about the information below, please reach 
 The Guest Messaging Platform team, also known as Morpheus, is Target's key product team that orchestrates and deploys
 personalize email and push marketing campaigns to millions of Target guests every day. The team controls direct communications
 to guests and has substantial impact to Target's bottom line, with tens of millions of dollars of revenue correlated to 
-various Morpheus applications. You can find out more information on the team via their [official confluence page](https://confluence.target.com/display/MC/Overview).
+various Morpheus applications.
 
 I joined Morpheus after finishing the Technology Leadership Program in October 2021. Since that time and up to the present, 
 I have gained experience working with a diverse set of frontend, backend, and big data technologies. 
