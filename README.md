@@ -4,9 +4,9 @@
 ## Table of Contents
 - [Christian - Profile and Body of Work](#christian-vasquez-leon---body-of-work)
     - [Introduction](#introduction)
-    - [Work History](#Work-History)
-        - [Guest Messaging Platform](##Guest-Messaging-Platform)
-        - [Technology Leadership Program](#Technology-Leadership-Program)
+    - [Work History](#work-history)
+        - [Guest Messaging Platform](#guest-messaging-platform--target)
+        - [Technology Leadership Program](#technology-leadership-program--target)
 - [Artifacts](#artifacts)
 
 ## Introduction
