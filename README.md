@@ -4,10 +4,9 @@
 ## Table of Contents
 - [Christian - Profile and Body of Work](#christian-vasquez-leon---body-of-work)
     - [Introduction](#introduction)
-    - [Contributions at Target](#contributions-at-target)
-        - [Guest Messaging Platform](#Guest-Messaging-Platform)
+    - [Work History](#Work-History)
+        - [Guest Messaging Platform](##Guest-Messaging-Platform)
         - [Technology Leadership Program](#Technology-Leadership-Program)
-- [Work History](#work-history)
 - [Artifacts](#artifacts)
 
 ## Introduction
@@ -20,9 +19,9 @@ of those major contributions. In addition, I have taken the liberty to include p
 volunteer work that I take part of outside my professional work to round out my personal qualities and values as an 
 individual. If you have any questions about the information below, please reach out in the provided contact info below. 
 
-## Contributions at Target
+## Work History
 
-### Guest Messaging Platform
+### Guest Messaging Platform @ Target
 The Guest Messaging Platform team, also known as Morpheus, is Target's key product team that orchestrates and deploys
 personalize email and push marketing campaigns to millions of Target guests every day. The team controls direct communications
 to guests and has substantial impact to Target's bottom line, with tens of millions of dollars of revenue correlated to 
@@ -43,7 +42,7 @@ Scala, XML, Apache Spark, Hadoop, Hive, Hyperion, BigRed3, Redis, Python
 - [Big Data: Standard Guest Attribute Segments](Contributions/Guest-Messaging-Platform/big_data_sga_segments.md)
  
 
-### Technology Leadership Program
+### Technology Leadership Program @ Target
 Part of Target's Technology Leadership Program Fall 2020 cohort. Completed two 6-month rotations in the following teams: 
 
 **Rotation 1: Supply Chain Business Data Platform Team (ie Krakatoa)**
@@ -62,10 +61,10 @@ Major Projects:
 - Assent POC Tool
 - Squarespace site w/ Dev Plugins
 
-## Work History
+### Frontend Intern @ Activision
 *work in progress*
 
 ## Artifacts
 [LinkedIn Profile](https://www.linkedin.com/in/cvleon/)
 
-[Full Resume](Assets/Christian_Vasquez_Resume_2023.docx.pdf)
+[Full Resume](Assets/Christian_VasquezLeon_Resume_2023.docx.pdf)
