@@ -1,5 +1,5 @@
-# Christian Vasquez Leon - Body of Work
-**Last Updated**: 2023-07-20
+# Software Engineering Body of Work
+**Last Updated**: September 2023
 **********
 ## Table of Contents
 - [Christian - Profile and Body of Work](#christian-vasquez-leon---body-of-work)
