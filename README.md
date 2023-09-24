@@ -66,4 +66,4 @@ Major Projects:
 ## Artifacts
 [LinkedIn Profile](https://www.linkedin.com/in/cvleon/)
 
-[Full Resume](assets/Christian_VasquezLeon_Resume_2023.pdf)
+[Full Resume](assets/Christian_Vasquez_Resume_2023.pdf)
