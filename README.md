@@ -1,5 +1,5 @@
 # Software Engineer Body of Work Portfolio
-**Last Updated**: September 2023
+**Last Updated**: Fall 2023
 ## Table of Contents
 - [Christian - Profile and Body of Work](#christian-vasquez-leon---body-of-work)
     - [Introduction](#introduction)
